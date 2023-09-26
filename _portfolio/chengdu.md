@@ -7,20 +7,13 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/china/poster.jpg
+image: assets/img/portfolio/chengdu/featured.jpg
 alt: image alt text
 
 ---
 Use this area to describe your project. **Markdown** supported.
 
-<img src="assets/img/portfolio/china/poster.jpg" width="100%"/>
-
-<img src="assets/img/portfolio/china/poster.jpg" width="45%"/>
-<img src="assets/img/portfolio/china/poster.jpg" width="45%"/>
-
-<img src="assets/img/portfolio/china/poster.jpg" width="100%"/>
-
-<img src="assets/img/portfolio/china/poster.jpg" width="100%"/>
+<img src="assets/img/portfolio/chengdu/poster.jpg" width="100%"/>
 
 optional info list (delete if not using):
 
