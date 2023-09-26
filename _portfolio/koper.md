@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Activating Koper
-subtitle: Summer school with Autonomous Collective
+subtitle: Koper Net
 image: assets/img/portfolio/gdy/3gdy1.jpg
 alt: image alt text
 
