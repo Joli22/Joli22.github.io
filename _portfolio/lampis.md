@@ -9,9 +9,10 @@ title: Light traps
 subtitle: Lamp design
 image: assets/img/portfolio/lampis/buba.jpg
 alt: image alt text
+group: lampis
 
 ---
 This idea was born out of the personal inclination towards repurposing discarded materials or objects. And also out of scarcity of choice when it comes to lighting design supply in the Balkan region. The visual and symbolic inspiration finds its place in the natural world of carnivorous plants and sea jellies. 
 
-<img src="assets/img/portfolio/lampis/buba.jpg" width="100%"/>
+{% include fancyimg.html src="assets/img/portfolio/lampis/buba.jpg" group="lampis" %}
 

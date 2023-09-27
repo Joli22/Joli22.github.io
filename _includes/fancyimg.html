@@ -1,0 +1,9 @@
+{% if include.group %}
+<a href="{{ include.src }}" data-fancybox={{ include.group }} data-caption="{{ include.caption | default: " " }}">
+  <img src="{{ include.src }}" width="{{ include.width | default: "100%" }}"/>
+</a>
+{% else %}
+<a href="{{ include.src }}" data-fancybox data-caption="{{ include.caption | default: " " }}">
+  <img src="{{ include.src }}" width="{{ include.width | default: "100%" }}"/>
+</a>
+{% endif %}
