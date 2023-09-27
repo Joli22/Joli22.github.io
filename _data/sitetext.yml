@@ -23,7 +23,7 @@ en: &DEFAULT_EN
       Hi, I am Jovana Liščević.<br>
     section: CV
     name: "Jovana Liščević"
-    image: assets/img/about/me.jpg
+    image: assets/img/about/Jovana Liscevic CV 2023.jpg
     social:
      - url: https://twitter.com
        icon: fab fa-twitter
