@@ -11,11 +11,27 @@
     </div>
     <div class="row align-items-center">
       <div class="col-lg-4">
-	<div class="m-lg-0 team-member">
+	<div class="m-3 team-member">
 	  <img class="mx-auto rounded-circle" src="{{ about.image }}" alt="">
 	</div>
+        <ul class="list-inline social-buttons text-center mb-2">
+          {% for link in about.social %}
+          <li class="list-inline-item">
+            {% if link.url %}
+	    <a href="{{ link.url }}"
+	       {% if link.fancy %}
+	       data-fancybox
+	       {% endif %}
+	       target="_blank"
+	    >
+	      {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+            </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
       </div>
-      <div class="col-lg-8 mx-auto text-lg-left text-md-center text-sm-center">
+      <div class="col-lg-8 mx-auto mb-4 text-center text-lg-left">
         <div class="large text-muted">{{ about.body | markdownify }}</div>
       </div>
     </div>
