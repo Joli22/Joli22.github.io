@@ -8,7 +8,7 @@
         <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].portfolio.text | markdownify }}</h3>
       </div>
     </div>
-    <div class="row flex-column flex-wrap" style="height: 100vw;">
+    <div class="row">
 	{% for project in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
