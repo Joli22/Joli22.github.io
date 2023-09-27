@@ -17,12 +17,11 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   about:
-    title: "About Me"
+    title: "CV"
     text: ""
     body:
-      I am Jovana Liščević.<br>
-      I am very cool.<br>
-    section: about
+      Hi, I am Jovana Liščević.<br>
+    section: CV
     name: "Jovana Liščević"
     image: assets/img/about/me.jpg
     social:
