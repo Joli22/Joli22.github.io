@@ -12,7 +12,13 @@ alt: image alt text
 group: lampis
 
 ---
-This idea was born out of the personal inclination towards repurposing discarded materials or objects. And also out of scarcity of choice when it comes to lighting design supply in the Balkan region. The visual and symbolic inspiration finds its place in the natural world of carnivorous plants and sea jellies. 
+This idea was born out of the personal inclination towards repurposing discarded materials or objects. And also due to a limited choice when it comes to lighting design supply in the Balkan region. The visual and symbolic inspiration for the lamps finds its place in the natural world of carnivorous plants and sea jellies. 
 
-{% include fancyimg.html src="assets/img/portfolio/lampis/bubaD.jpg" group="lampis" %}
-
+{% include fancyimg.html src="assets/img/portfolio/lampis/deets.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/obe.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/krug.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/venus.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/letilica.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/zucj.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/zucj2.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/sarracenia.jpg" group="lampis" %}
