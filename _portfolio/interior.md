@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Interior design
   subtitle: January 2022
-  thumbnail: assets/img/portfolio/interior/bakar.jpg
+  thumbnail: assets/img/portfolio/interior/bakarS.jpg
   
 #what displays when the item is clicked:
 title: Interior design
 subtitle: Endorfin bar & restaurant
-image: assets/img/portfolio/interior/bakar.jpg
+image: assets/img/portfolio/interior/bakarS.jpg
 alt: image alt text
 
 ---
