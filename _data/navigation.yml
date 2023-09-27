@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Portfolio"
       section: portfolio
-    - title: "About"
-      section: about
+    - title: "CV"
+      section: CV
 en-US:
   <<: *DEFAULT_EN
 en-CA:
