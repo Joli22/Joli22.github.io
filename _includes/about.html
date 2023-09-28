@@ -16,18 +16,17 @@
 	</div>
         <ul class="list-inline social-buttons text-center mb-2">
           {% for link in about.social %}
-          <li class="list-inline-item">
+	  <li class="list-inline-item ">
             {% if link.url %}
 	    <a href="{{ link.url }}"
-	       {% if link.fancy %}
-	       data-fancybox
-	       {% endif %}
-	       target="_blank"
+	       {% if link.disabled %} class="disabled" onclick="return false" {% else %} target="_blank" {% endif %}
+	       {% if link.fancy %} data-fancybox {% endif %}
+	       title="{{ link.tooltip }}"
 	    >
 	      {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-            </a>
-            {% endif %}
-          </li>
+	    </a>
+	    {% endif %}
+	  </li>
           {% endfor %}
         </ul>
       </div>
