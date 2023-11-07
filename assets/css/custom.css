@@ -8,3 +8,16 @@
   opacity: 0.6;
   cursor: not-allowed;
 }
+
+figure figcaption {
+  text-align: center;
+}
+
+figure a:hover {
+  text-decoration: none;
+}
+
+figure a img {
+  display:block;
+  margin:auto;
+}

@@ -1,9 +1,15 @@
 {% if include.group %}
-<a href="{{ include.src }}" data-fancybox={{ include.group }} data-caption="{{ include.caption | default: " " }}">
-  <img src="{{ include.src }}" width="{{ include.width | default: "100%" }}"/>
-</a>
+<figure>
+  <a href="{{ include.src }}" data-fancybox={{ include.group }} data-caption="{{ include.caption | default: " " }}">
+    <img src="{{ include.src }}" width="{{ include.width | default: "100%" }}"/>
+    <figcaption>{{ include.caption | default: " " }}</figcaption>
+  </a>
+</figure>
 {% else %}
-<a href="{{ include.src }}" data-fancybox data-caption="{{ include.caption | default: " " }}">
-  <img src="{{ include.src }}" width="{{ include.width | default: "100%" }}"/>
-</a>
+<figure>
+  <a href="{{ include.src }}" data-fancybox data-caption="{{ include.caption | default: " " }}">
+    <img src="{{ include.src }}" width="{{ include.width | default: "100%" }}"/>
+    <figcaption>{{ include.caption | default: " " }}</figcaption>
+  </a>
+</figure>
 {% endif %}
