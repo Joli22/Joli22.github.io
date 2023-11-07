@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Light traps
-  subtitle: July 2023
+  title: Appartment interior design
+  subtitle: October 2023
   thumbnail: assets/img/portfolio/lampis/bubaD.jpg
   
 #what displays when the item is clicked:
-title: Light traps
-subtitle: Lamp design
+title: Appartment interior design
+subtitle: Appartment interior design
 image: assets/img/portfolio/lampis/bubaD.jpg
 alt: image alt text
 group: lampis
