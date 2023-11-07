@@ -15,7 +15,9 @@ group: lampis
 The project ‘Light traps’ is a collection of lighting objects created during July 2023 in my apartment in Belgrade. The name of the collection comes from the visual and symbolic inspiration found in the natural world of carnivorous plants and sea jellies. This idea was born out of the personal inclination towards repurposing discarded materials or objects. And also due to a limited choice when it comes to lighting design supply in the Balkan region. Metals found near metal waste, cheap materials like metal mesh and textile ropes are all used to create lighting objects which demonstrate what can be achieved with little investment and with giving new life to waste.
 
 {% include fancyimg.html src="assets/img/portfolio/lampis/deets.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/0A small.jpg" group="lampis" %}
 {% include fancyimg.html src="assets/img/portfolio/lampis/obe.jpg" group="lampis" %}
+{% include fancyimg.html src="assets/img/portfolio/lampis/0B small.jpg" group="lampis" %}
 {% include fancyimg.html src="assets/img/portfolio/lampis/krug.jpg" group="lampis" %}
 {% include fancyimg.html src="assets/img/portfolio/lampis/bubaD.jpg" group="lampis" %}
 {% include fancyimg.html src="assets/img/portfolio/lampis/letilica.jpg" group="lampis" %}
