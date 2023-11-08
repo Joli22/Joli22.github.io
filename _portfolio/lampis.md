@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Light traps
   subtitle: July 2023
-  thumbnail: assets/img/portfolio/lampis/venus.jpg
+  thumbnail: assets/img/portfolio/lampis/venus1.jpg
   
 #what displays when the item is clicked:
 title: Light traps
 subtitle: Lamp design
-image: assets/img/portfolio/lampis/venus.jpg
+image: assets/img/portfolio/lampis/venus1.jpg
 alt: image alt text
 group: lampis
 
