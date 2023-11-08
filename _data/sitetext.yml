@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: "ti ti-brand-instagram"
         disabled: true
         tooltip: "Under construction"
-      - url: assets/img/about/cv.jpg
+      - url: "assets/img/about/cv jo 2023.jpg"
         icon: "ti ti-file-cv"
         fancy: true
         
