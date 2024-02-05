@@ -10,6 +10,7 @@ subtitle: Balancing between informality and official planning policies
 image: assets/img/portfolio/msc/line.jpg
 alt:
 group: msc
+date: 2017-12-01
 
 ---
 
