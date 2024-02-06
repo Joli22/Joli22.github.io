@@ -8,7 +8,7 @@
         <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].portfolio.text | markdownify }}</h3>
       </div>
     </div>
-    <div class="row">
+    <div class="row masonry">
       {% assign projects = site.portfolio | sort: "date" | reverse %}
       {% for project in projects %}
       <div class="col-md-4 col-sm-6 portfolio-item">
