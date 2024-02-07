@@ -12,6 +12,7 @@ images:
   - /assets/img/portfolio/gdy/gdy.jpg
   - /assets/img/portfolio/gdy/6 smece.jpg
   - /assets/img/portfolio/gdy/5 sto.jpg
+images_per_row: 2
 alt: image alt text
 group: gdynia
 date: 2020-09-01

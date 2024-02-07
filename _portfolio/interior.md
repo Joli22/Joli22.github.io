@@ -11,6 +11,7 @@ images:
   - /assets/img/portfolio/interior/bakarD.jpg
   - /assets/img/portfolio/interior/kolaz cisceno.jpg
   - /assets/img/portfolio/interior/foto.jpg
+images_per_row: 2
 alt: image alt text
 group: interior
 date: 2022-01-01

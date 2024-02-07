@@ -12,6 +12,7 @@ images:
   - /assets/img/portfolio/chengdu/1concept.jpg
   - /assets/img/portfolio/chengdu/3 building.jpg
   - /assets/img/portfolio/chengdu/2 indoors.jpg
+images_per_row: 3
 alt: image 
 group: chengdu
 date: 2016-06-01

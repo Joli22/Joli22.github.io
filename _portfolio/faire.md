@@ -11,6 +11,7 @@ images:
   - /assets/img/portfolio/faire/maq1.jpg
   - /assets/img/portfolio/faire/sistem.jpg
   - /assets/img/portfolio/faire/maq2.jpg
+images_per_row: 3
 alt: image alt text
 group: faire
 date: 2018-05-01

@@ -5,13 +5,15 @@ layout: default
 
 <div class="container" id="pagecontainer">
   <div class="row">
-    <div class="col-12">
-          <h2 class="text-uppercase">{{ page.title }}</h2>
-	  <p class="item-intro text-muted">{{ page.subtitle }}, <i>{{page.caption.subtitle}}</i></p>
-    </div>
-  </div>
-  <div class="row">
     <div class="col-12 col-md-6">
+      <h2 class="text-uppercase">{{ page.title }}</h2>
+      <p class="item-intro text-muted">
+	<span class="text-nowrap">
+	  {{ page.subtitle }}</span>,
+	<span class="text-nowrap">
+	  <i>{{page.caption.subtitle}}</i>
+	</span>
+      </p>
       <div class="text-justify">
 	{{ content }}
       </div>
@@ -19,7 +21,11 @@ layout: default
     <div class="col-12 col-md-6">
       <div class="row masonry">
 	{% for image in page.images %}
-	  <div class="col-3 p-1">
+	  {% if page.images_per_row > 0 %}
+	    <div class="col-{{ 12 | divided_by: page.images_per_row }} p-1">
+	  {% else %}
+	      <div class="col-3 p-1">
+	  {% endif %}
 	    <a href="{{ image }}" data-fancybox="group" }}">
 	      <img src="{{ image }}" width="{{ include.width | default: "100%" }}"/>
 	    </a>
@@ -27,6 +33,5 @@ layout: default
 	{% endfor %}
       </div>
     </div>
-
   </div>
 </div>

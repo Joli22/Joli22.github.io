@@ -11,6 +11,7 @@ images:
   - /assets/img/portfolio/koper/diary.jpg
   - /assets/img/portfolio/koper/kopernet.jpg
 alt: image alt text
+images_per_row: 2
 group: koper
 date: 2021-09-01
 

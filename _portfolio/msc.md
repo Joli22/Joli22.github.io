@@ -12,6 +12,7 @@ images:
   - /assets/img/portfolio/msc/timeline.jpg
   - /assets/img/portfolio/msc/agri.jpg
   - /assets/img/portfolio/msc/play.jpg
+images_per_row: 2
 alt:
 group: msc
 date: 2017-12-01
