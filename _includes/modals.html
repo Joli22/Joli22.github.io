@@ -1,5 +1,5 @@
 <!-- Portfolio Modals -->
-{% assign projects = site.portfolio | sort: "date" | reverse %}
+{% assign projects = site.portfolio | reverse %}
 {% for project in projects %}
 {% if site.locale and site.locale != "" and site.locale != nil %}
 <div

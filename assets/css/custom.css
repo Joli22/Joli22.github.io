@@ -21,3 +21,7 @@ figure a img {
   display:block;
   margin:auto;
 }
+
+.masonry {
+    margin: 0 auto;
+}

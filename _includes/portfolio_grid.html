@@ -9,10 +9,10 @@
       </div>
     </div>
     <div class="row masonry">
-      {% assign projects = site.portfolio | sort: "date" | reverse %}
+      {% assign projects = site.portfolio | reverse %}
       {% for project in projects %}
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
+      <div class="col-12 col-sm-6 col-md-4 portfolio-item">
+        <a class="portfolio-link" href="{{ project.url }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>

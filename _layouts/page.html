@@ -1,14 +1,32 @@
 ---
 layout: default
 ---
-{% include nav.html %}
-
-{% if page.background == "grey" or page.background == "gray" %}
-<script>
-document.getElementById("page-top").className="bg-light";
-</script>
-{% endif %}
+{% include navheader.html %}
 
 <div class="container" id="pagecontainer">
-{{ content }}
+  <div class="row">
+    <div class="col-12">
+          <h2 class="text-uppercase">{{ page.title }}</h2>
+	  <p class="item-intro text-muted">{{ page.subtitle }}, <i>{{page.caption.subtitle}}</i></p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 col-md-6">
+      <div class="text-justify">
+	{{ content }}
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div class="row masonry">
+	{% for image in page.images %}
+	  <div class="col-3 p-1">
+	    <a href="{{ image }}" data-fancybox="group" }}">
+	      <img src="{{ image }}" width="{{ include.width | default: "100%" }}"/>
+	    </a>
+	  </div>
+	{% endfor %}
+      </div>
+    </div>
+
+  </div>
 </div>
