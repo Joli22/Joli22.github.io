@@ -2,13 +2,13 @@
 caption: #what displays in the portfolio grid:
   title: Ballancoire
   subtitle: May 2018
-  thumbnail: /assets/img/portfolio/faire/maq1.jpg
+  thumbnail: /assets/img/portfolio/faire/ballancollage.jpg
   
 #what displays when the item is clicked:
 title: Ballancoire
 subtitle: Urban furniture
 images: 
-  - /assets/img/portfolio/faire/maq1.jpg
+  - /assets/img/portfolio/faire/ballancollage.jpg
   - /assets/img/portfolio/faire/sistem.jpg
   - /assets/img/portfolio/faire/maq2.jpg
 images_per_row: 3
