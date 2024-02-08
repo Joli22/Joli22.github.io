@@ -19,6 +19,9 @@ images:
   - /assets/img/portfolio/lampis/bubaD.jpg
   - /assets/img/portfolio/lampis/zzzh.jpg
   - /assets/img/portfolio/lampis/zhhh.jpg
+  - /assets/img/portfolio/lampis/d1.jpg
+  - /assets/img/portfolio/lampis/g1.jpg
+  - /assets/img/portfolio/lampis/g2.jpg
 date: 2023-07-01
 
 ---
