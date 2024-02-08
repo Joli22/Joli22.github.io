@@ -2,18 +2,16 @@
 caption: #what displays in the portfolio grid:
   title: Apartment for B
   subtitle: December 2022
-  thumbnail: /assets/img/portfolio/6kaplara/6kaplara boja small.jpg
+  thumbnail: /assets/img/portfolio/bojka/Untitled-1 kuh kolaz.jpg
   
 #what displays when the item is clicked:
 title: Apartment for B
 subtitle: Apartment for B
 images: 
-  - /assets/img/portfolio/6kaplara/6kaplara boja small.jpg
-  - /assets/img/portfolio/6kaplara/6kapl PRE.jpg
-  - /assets/img/portfolio/6kaplara/6kapl osnova.jpg
+  - /assets/img/portfolio/bojka/Untitled-1 kuh kolaz.jpg
 images_per_row: 3
 alt: image alt text
-group: 6kaplara
+group: bojka
 date: 2022-12-01
 
 ---
