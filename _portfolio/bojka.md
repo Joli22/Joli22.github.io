@@ -9,6 +9,7 @@ title: Apartment for B
 subtitle: Apartment for B
 images: 
   - /assets/img/portfolio/bojka/Untitled-1 kuh kolaz.jpg
+  - /assets/img/portfolio/bojka/kuh rekamije.jpg
 images_per_row: 3
 alt: image alt text
 group: bojka
