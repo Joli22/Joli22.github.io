@@ -8,14 +8,13 @@ caption: #what displays in the portfolio grid:
 title: Light traps
 subtitle: Lamp design
 images: 
+  - /assets/img/portfolio/lampis/0A small.jpg
   - /assets/img/portfolio/lampis/venus222.jpg
-  - /assets/img/portfolio/lampis/trio.jpg
   - /assets/img/portfolio/lampis/ooo.jpg
   - /assets/img/portfolio/lampis/ppp.jpg
   - /assets/img/portfolio/lampis/mmm.jpg
   - /assets/img/portfolio/lampis/mmm1.jpg
   - /assets/img/portfolio/lampis/deets.jpg
-  - /assets/img/portfolio/lampis/0A small.jpg
   - /assets/img/portfolio/lampis/bubaD.jpg
   - /assets/img/portfolio/lampis/zzzh.jpg
   - /assets/img/portfolio/lampis/zhhh.jpg
