@@ -9,16 +9,17 @@ title: Light traps
 subtitle: Lamp design
 images: 
   - /assets/img/portfolio/lampis/venus222.jpg
+  - /assets/img/portfolio/lampis/ooo.jpg
+  - /assets/img/portfolio/lampis/ppp.jpg
+  - /assets/img/portfolio/lampis/mmm.jpg
+  - /assets/img/portfolio/lampis/mmm1.jpg
   - /assets/img/portfolio/lampis/deets.jpg
   - /assets/img/portfolio/lampis/0A small.jpg
-  - /assets/img/portfolio/lampis/obe.jpg
-  - /assets/img/portfolio/lampis/0B small.jpg
   - /assets/img/portfolio/lampis/dddd1.jpg
   - /assets/img/portfolio/lampis/bubaD.jpg
   - /assets/img/portfolio/lampis/letilica.jpg
   - /assets/img/portfolio/lampis/gggg1.jpg
   - /assets/img/portfolio/lampis/gggg2.jpg
-  - /assets/img/portfolio/lampis/sarracenia.jpg
 date: 2023-07-01
 
 ---
