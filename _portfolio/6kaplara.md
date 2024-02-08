@@ -9,7 +9,7 @@ title: Apartment for I&R
 subtitle: Apartment for I&R
 images: 
   - /assets/img/portfolio/6kaplara/6kaplara boja small.jpg
-  - /assets/img/portfolio/6kaplara/6kapl PRE.jpg
+  - /assets/img/portfolio/6kaplara/pre.jpg
   - /assets/img/portfolio/6kaplara/6kapl osnova.jpg
 images_per_row: 3
 alt: image alt text
