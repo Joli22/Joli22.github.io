@@ -11,7 +11,7 @@ images:
   - /assets/img/portfolio/bojka/Untitled-1 kuh kolaz.jpg
   - /assets/img/portfolio/bojka/kuh rekamije.jpg
   - /assets/img/portfolio/bojka/Untitled-2a.jpg
-images_per_row: 3
+images_per_row: 2
 alt: image alt text
 group: bojka
 date: 2023-11-01
