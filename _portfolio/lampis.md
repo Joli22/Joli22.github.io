@@ -20,6 +20,8 @@ images:
   - /assets/img/portfolio/lampis/letilica.jpg
   - /assets/img/portfolio/lampis/gggg1.jpg
   - /assets/img/portfolio/lampis/gggg2.jpg
+  - /assets/img/portfolio/lampis/zzzh.jpg
+  - /assets/img/portfolio/lampis/zhhh.jpg
 date: 2023-07-01
 
 ---
