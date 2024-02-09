@@ -11,6 +11,7 @@ images:
   - /assets/img/portfolio/interior/bakarD.jpg
   - /assets/img/portfolio/interior/endokolaz.jpg
   - /assets/img/portfolio/interior/foto.jpg
+  - /assets/img/portfolio/interior/plans.jpg
 images_per_row: 2
 alt: image alt text
 group: interior
