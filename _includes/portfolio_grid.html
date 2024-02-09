@@ -12,18 +12,15 @@
       {% assign projects = site.portfolio | reverse %}
       {% for project in projects %}
       <div class="col-12 col-sm-6 col-md-4 portfolio-item">
-        <a class="portfolio-link" href="{{ project.url }}">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
+        <div class="tw-shadow-lg hover:tw-shadow-2xl hover:tw-scale-110 tw-transform tw-transition tw-duration-500">
+	  <a class="portfolio-link" href="{{ project.url }}">
+            <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+            <div class="portfolio-caption">
+              <h4>{{ project.caption.title }}</h4>
+              <p class="text-muted">{{ project.caption.subtitle }}</p>
             </div>
-          </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
-          <p class="text-muted">{{ project.caption.subtitle }}</p>
-        </div>
+          </a>
+	</div>
       </div>
 	{% endfor %}
     </div>

@@ -7,7 +7,18 @@
 
       {{ content }}
 
-	  {% include footer.html %}
+          {% include footer.html %}
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+     tailwind.config = {
+       prefix: "tw-",
+       corePlugins: {
+	 preflight: false,
+       },
+     }
+    </script>
+        
 
 	  <!-- Bootstrap core JavaScript -->
 	  <script src="/assets/js/jquery.min.js"></script>
