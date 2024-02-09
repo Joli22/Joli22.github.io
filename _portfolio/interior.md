@@ -2,13 +2,13 @@
 caption: #what displays in the portfolio grid:
   title: Restaurant interior design
   subtitle: December 2021
-  thumbnail: /assets/img/portfolio/interior/bakarD.jpg
+  thumbnail: /assets/img/portfolio/interior/bakar.jpg
   
 #what displays when the item is clicked:
 title: Restaurant interior design
 subtitle: Endorfin bar & restaurant
 images: 
-  - /assets/img/portfolio/interior/bakarD.jpg
+  - /assets/img/portfolio/interior/bakar.jpg
   - /assets/img/portfolio/interior/endokolaz.jpg
   - /assets/img/portfolio/interior/foto.jpg
   - /assets/img/portfolio/interior/plans.jpg
