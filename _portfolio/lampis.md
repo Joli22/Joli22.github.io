@@ -11,11 +11,14 @@ images:
   - /assets/img/portfolio/lampis/0A small.jpg
   - /assets/img/portfolio/lampis/venus222a.jpg
   - /assets/img/portfolio/lampis/ooo.jpg
+  - /assets/img/portfolio/lampis/ooo1.jpg
+  - /assets/img/portfolio/lampis/ooo2.jpg
   - /assets/img/portfolio/lampis/ppp.jpg
   - /assets/img/portfolio/lampis/mmm.jpg
   - /assets/img/portfolio/lampis/mmm1.jpg
   - /assets/img/portfolio/lampis/deets.jpg
   - /assets/img/portfolio/lampis/bubaD.jpg
+  - /assets/img/portfolio/lampis/ooo3.jpg
   - /assets/img/portfolio/lampis/zzzh.jpg
   - /assets/img/portfolio/lampis/zhhh.jpg
   - /assets/img/portfolio/lampis/u1.jpg
