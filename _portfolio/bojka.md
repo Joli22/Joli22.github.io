@@ -11,7 +11,7 @@ images:
   - /assets/img/portfolio/bojka/Untitled-1 kuh kolaz.jpg
   - /assets/img/portfolio/bojka/kuh rekamije.jpg
   - /assets/img/portfolio/bojka/Untitled-2a.jpg
-  - /assets/img/portfolio/bojka/terasaBo.jpg
+  - /assets/img/portfolio/bojka/teracbo.jpg
 images_per_row: 2
 alt: image alt text
 group: bojka
