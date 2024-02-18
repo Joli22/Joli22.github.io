@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Activating Koper
-  subtitle: Summer school with Autonomous Collective, September 2021
+  subtitle: Summer school with Architectuul and UAU! /Urban Activation Unit/, September 2021
   thumbnail: /assets/img/portfolio/koper/diary.jpg
   
 #what displays when the item is clicked:
