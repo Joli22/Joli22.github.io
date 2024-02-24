@@ -8,11 +8,15 @@ caption: #what displays in the portfolio grid:
 title: House in the woods
 subtitle: House in the woods
 images: 
-  - /assets/img/portfolio/bojka/Untitled-1 kuh kolaz.jpg
-  - /assets/img/portfolio/bojka/kuh rekamije.jpg
-  - /assets/img/portfolio/bojka/Untitled-2a.jpg
-  - /assets/img/portfolio/bojka/teracbo.jpg
-images_per_row: 2
+  - /assets/img/portfolio/bojka/01sut.jpg
+  - /assets/img/portfolio/bojka/02priz.jpg
+  - /assets/img/portfolio/bojka/03sect.jpg
+  - /assets/img/portfolio/bojka/04sect.jpg
+  - /assets/img/portfolio/bojka/05fas.jpg
+  - /assets/img/portfolio/bojka/06fas.jpg
+  - /assets/img/portfolio/bojka/07fas.jpg
+  - /assets/img/portfolio/bojka/08fas.jpg
+images_per_row: 3
 alt: image alt text
 group: bojka
 date: 2020-10-01
