@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: House in the woods
   subtitle: October 2020
-  thumbnail: /assets/img/portfolio/bojka/Untitled-1 kuh kolaz.jpg
+  thumbnail: /assets/img/portfolio/bojka/01sut.jpg
   
 #what displays when the item is clicked:
 title: House in the woods
