@@ -12,7 +12,7 @@ images:
   - /assets/img/portfolio/bojka/kuh rekamije.jpg
   - /assets/img/portfolio/bojka/Untitled-2a.jpg
   - /assets/img/portfolio/bojka/teracbo.jpg
-  - /assets/img/portfolio/bojka/progress.jpg
+  - /assets/img/portfolio/bojka/progr.jpg
 images_per_row: 2
 alt: image alt text
 group: bojka
