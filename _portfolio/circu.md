@@ -25,4 +25,4 @@ group: 6kaplara
 date: 2022-12-01
 
 ---
-This is an ongoing project of the refurbishment of an apartment in Block 21, Belgrade. In accordance with clients' needs the daily area is designed as an open space containing kitchen, dining and living area, a library, and a TV stand. The center of attention is the colored sofa standing out in the mainly white and natural oak setting that surrounds it. The lighting is solved with more peripheral sources of light, rather than fewer central ones. The construction column in the middle of the space is covered in mirror to lighten its presence.
+Circular design lighting objects made from discarded construction waste materials and some materials from the everyday use.
