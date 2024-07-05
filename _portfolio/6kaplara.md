@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Apartment for I&R
   subtitle: December 2022
-  thumbnail: /assets/img/portfolio/6kaplara/6kaplara boja small.jpg
+  thumbnail: /assets/img/portfolio/6kaplara/R.jpg
   
 #what displays when the item is clicked:
 title: Apartment for I&R
