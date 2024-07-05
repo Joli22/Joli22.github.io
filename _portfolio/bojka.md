@@ -12,10 +12,8 @@ images:
   - /assets/img/portfolio/bojka/kuh rekamije.jpg
   - /assets/img/portfolio/bojka/Untitled-2a.jpg
   - /assets/img/portfolio/bojka/terasaBo.jpg
-  - /assets/img/portfolio/bojka/progr.jpg
+  - /assets/img/portfolio/bojka/bojanagif.jpg
   - /assets/img/portfolio/bojka/k.jpg
-  - /assets/img/portfolio/bojka/j.jpg
-  - /assets/img/portfolio/bojka/h.jpg
   - /assets/img/portfolio/bojka/g.jpg
 images_per_row: 2
 alt: image alt text
