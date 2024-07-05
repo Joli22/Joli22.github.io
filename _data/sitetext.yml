@@ -25,7 +25,7 @@ en: &DEFAULT_EN
     name: "Jovana Liščević"
     image: assets/img/about/me.jpg
     social:
-      - url: ""
+      - url: "https://www.instagram.com/studio_svar/"
         icon: "ti ti-brand-instagram"
         disabled: true
         tooltip: "Under construction"
