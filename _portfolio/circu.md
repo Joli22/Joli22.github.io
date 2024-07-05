@@ -16,7 +16,6 @@ images:
   - /assets/img/portfolio/6kaplara/H.jpg
   - /assets/img/portfolio/6kaplara/I.jpg
   - /assets/img/portfolio/6kaplara/I1.jpg
-  - /assets/img/portfolio/6kaplara/image00017 gif.mp4
   - /assets/img/portfolio/6kaplara/J.jpg
   - /assets/img/portfolio/6kaplara/K.jpg
   - /assets/img/portfolio/6kaplara/L.jpg
