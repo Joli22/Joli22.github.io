@@ -28,7 +28,6 @@ en: &DEFAULT_EN
       - url: "https://www.instagram.com/studio_svar/"
         icon: "ti ti-brand-instagram"
         fancy: true
-        tooltip: "Under construction"
       - url: "/assets/img/about/cv jo 2023.jpg"
         icon: "ti ti-file-cv"
         fancy: true
