@@ -15,7 +15,7 @@ images:
   - /assets/img/portfolio/bojka/terasaBo.jpg
   - /assets/img/portfolio/bojka/k.jpg
   - /assets/img/portfolio/bojka/g.jpg
-images_per_row: 3
+images_per_row: 2
 alt: image alt text
 group: bojka
 date: 2023-11-01
