@@ -12,7 +12,7 @@ images:
   - /assets/img/portfolio/bojka/kuh rekamije.jpg
   - /assets/img/portfolio/bojka/Untitled-2a.jpg
   - /assets/img/portfolio/bojka/terasaBo.jpg
-  - /assets/img/portfolio/bojka/bojanagif.jpg
+  - /assets/img/portfolio/bojka/Bgif.mp4
   - /assets/img/portfolio/bojka/k.jpg
   - /assets/img/portfolio/bojka/g.jpg
 images_per_row: 2
