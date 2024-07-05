@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Circular design lighting objects
+  title: Circular design
   subtitle: June 2024
   thumbnail: /assets/img/portfolio/6kaplara/G.jpg
   
